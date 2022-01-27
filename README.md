@@ -2,6 +2,16 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-116-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+# TL;DR
+```bash
+git clone -b 4.6.0 --depth 1 https://github.com/szymek156/rustlings
+cd rustlings
+cargo install --force --path .
+
+rustlings watch
+
+```
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
