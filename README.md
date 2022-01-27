@@ -6,6 +6,8 @@
 ```bash
 git clone -b 4.6.0 --depth 1 https://github.com/szymek156/rustlings
 cd rustlings
+rustup update
+
 cargo install --force --path .
 
 rustlings watch
